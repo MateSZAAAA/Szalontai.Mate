@@ -1,0 +1,107 @@
+[
+    {
+        "Szerző": "J.K. Rowling",
+        "Cím": "Harry Potter and the Philosopher's Stone",
+        "Kiadás Éve": "1997",
+        "ISBN": "0-7475-3269-9",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "George Orwell",
+        "Cím": "1984",
+        "Kiadás Éve": "1949",
+        "ISBN": "0-452-28423-6",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "J.R.R. Tolkien",
+        "Cím": "The Hobbit",
+        "Kiadás Éve": "1937",
+        "ISBN": "0-618-00221-9",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "F. Scott Fitzgerald",
+        "Cím": "The Great Gatsby",
+        "Kiadás Éve": "1925",
+        "ISBN": "0-7432-7356-7",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "Jane Austen",
+        "Cím": "Pride and Prejudice",
+        "Kiadás Éve": "1813",
+        "ISBN": "0-19-283355-X",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "Harper Lee",
+        "Cím": "To Kill a Mockingbird",
+        "Kiadás Éve": "1960",
+        "ISBN": "0-06-112008-1",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "Mark Twain",
+        "Cím": "The Adventures of Huckleberry Finn",
+        "Kiadás Éve": "1884",
+        "ISBN": "0-14-310732-1",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "Charles Dickens",
+        "Cím": "Great Expectations",
+        "Kiadás Éve": "1861",
+        "ISBN": "0-14-143956-4",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "Leo Tolstoy",
+        "Cím": "War and Peace",
+        "Kiadás Éve": "1869",
+        "ISBN": "0-19-926794-4",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "Ernest Hemingway",
+        "Cím": "The Old Man and the Sea",
+        "Kiadás Éve": "1952",
+        "ISBN": "0-684-80122-1",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "William Shakespeare",
+        "Cím": "Hamlet",
+        "Kiadás Éve": "1603",
+        "ISBN": "978-0521618748",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "Agatha Christie",
+        "Cím": "Murder on the Orient Express",
+        "Kiadás Éve": "1934",
+        "ISBN": "0-000-72825-6",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "Louisa May Alcott",
+        "Cím": "Little Women",
+        "Kiadás Éve": "1868",
+        "ISBN": "0-451-52994-6",
+        "Állapot": "Olvasatlan"
+    },
+    {
+        "Szerző": "Charlotte Brontë",
+        "Cím": "Jane Eyre",
+        "Kiadás Éve": "1847",
+        "ISBN": "0-14-144114-3",
+        "Állapot": "Olvasott"
+    },
+    {
+        "Szerző": "Dan Brown",
+        "Cím": "The Da Vinci Code",
+        "Kiadás Éve": "2003",
+        "ISBN": "0-385-50420-9",
+        "Állapot": "Olvasatlan"
+    }
+]
